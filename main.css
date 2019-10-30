@@ -5,3 +5,24 @@
 .container-fluid {
     padding-top: 20px;
 }
+
+div.row > div.col-4 {
+    padding: 0 5vw;
+}
+
+/* #myCard {
+    padding: 0;
+    display: inline-block;
+} */
+
+/* @media(max-width: 576px){
+    #myCard {
+        margin: 10px auto;
+    }
+}
+
+@media(min-width: 576px){
+    #myCard {
+        margin: 0 0.05vw;
+    }
+} */
