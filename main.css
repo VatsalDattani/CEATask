@@ -6,8 +6,18 @@
     padding-top: 20px;
 }
 
-div.row > div.col-4 {
+div.row > div.col-12.col-sm-12.col-md-6.col-lg-4.col-xl-4 {
     padding: 0 5vw;
+}
+
+table.table.table-hover {
+    width: 70vw;
+    min-width: 576px;
+    margin-top: 30px;
+}
+
+div.card .card-footer > p {
+    margin-bottom: 0;
 }
 
 /* #myCard {
